@@ -4,7 +4,7 @@ import mysql.connector
 import config
 
 API_KEY = config.API_KEY
-CURRENT_SEASON = 'Preseason 12'
+CURRENT_SEASON = 'Season 2022'
 NAME = 'Bruno'
 BRUNO_PUUID = config.BRUNO_PUUID
 
