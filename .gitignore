@@ -1,2 +1,5 @@
+# Ignore the __pychache__ folder
+__pycache__/
+
 # Environment secret file
 config.py
